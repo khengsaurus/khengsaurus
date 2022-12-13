@@ -1,8 +1,6 @@
-## Heya, I’m @khengsaurus :)
+## Heya, I’m khengsaurus :)
 
-I focus mostly on web frontend, but occasionally explore other areas and technologies in my free time.
-<br/>
-These are some of the projects I'm working on -
+I focus mostly on web frontend, but occasionally explore other areas and technologies in my free time. These are some of the projects I'm working on -
 
 <hr/>
 
@@ -31,7 +29,7 @@ A [blog site](https://nm-blog.vercel.app/) offering content creation and file up
 
 ### [ng-gql-todos](https://github.com/khengsaurus/ng-go-todos) 📝 (wip)
 
-A [todo/kanban](https://ng-go-todos.netlify.app/) site exploring the combination of Angular and GraphQL, with a dash of REST. Exquisute 🤌
+A [todo/kanban](https://ng-go-todos.netlify.app/) site exploring the combination of Angular and GraphQL.
 <br/>
 • Go • GraphQL • Angular • MongoDB • AWS S3 • Redis
 
@@ -39,8 +37,6 @@ A [todo/kanban](https://ng-go-todos.netlify.app/) site exploring the combination
 
 ### [create-react-component](https://github.com/khengsaurus/create-react-component)
 A [VS-code extension](https://marketplace.visualstudio.com/items?itemName=tkcodesstuff.create-react-component-tk) to help you create react components.
-<br/>
-I can reaed your mind - yawn, another one? But to be fair, I actually use this at work... and I think some of my colleagues do too.
 
 <hr/>
 
