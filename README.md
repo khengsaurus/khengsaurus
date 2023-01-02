@@ -7,9 +7,7 @@ I focus mostly on web frontend, but occasionally explore other areas and technol
 ### [mahjong-sg](https://github.com/khengsaurus/mahjong-sg) 🀄️
 
 A Singapore Mahjong app offering P-vs-P and P-vs-bot modes, hosted [online](https://www.mahjong-sg.com/) and published on both the 
-[App Store](https://apps.apple.com/sg/app/mahjong-sg/id1608389963) and [Play Store](https://play.google.com/store/apps/details?id=com.tk.mahjongSg).
-<br/>
-Comes with a [CMS](https://github.com/khengsaurus/mahjong-cms) written in Go.
+[App Store](https://apps.apple.com/sg/app/mahjong-sg/id1608389963) and [Play Store](https://play.google.com/store/apps/details?id=com.tk.mahjongSg). Retrieves content from a [CMS](https://github.com/khengsaurus/mahjong-cms) written in Go.
 
 ![Games played](https://img.shields.io/endpoint?url=https://mj-cms.fly.dev/counter?badge=true)
 [![iOS Version](https://img.shields.io/itunes/v/1608389963?label=iOS)](https://apps.apple.com/sg/app/mahjong-sg/id1608389963)
@@ -27,9 +25,9 @@ A [blog site](https://nm-blog.vercel.app/) offering content creation and file up
 
 <hr/>
 
-### [ng-gql-todos](https://github.com/khengsaurus/ng-go-todos) 📝 (wip)
+### [ng-go-todos](https://github.com/khengsaurus/ng-go-todos) 📝
 
-A [todo/kanban](https://ng-go-todos.netlify.app/) site exploring the combination of Angular and GraphQL.
+A [todo/kanban](https://ng-go-todos.netlify.app/) site (wip)
 <br/>
 • Go • GraphQL • Angular • MongoDB • AWS S3 • Redis
 
